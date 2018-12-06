@@ -3,7 +3,7 @@
 ECHO You are in the process of create a master release (with version number). 
 ECHO If you are not ready, please exit right now with CTRL+C!
 ECHO( 
-PAUSE 
+PAUSE
 
 ECHO Checking out master branch
 git checkout master
